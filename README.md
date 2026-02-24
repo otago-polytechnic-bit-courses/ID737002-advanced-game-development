@@ -57,25 +57,25 @@ At the successful completion of this course, learners will be able to:
 
 ## Provisional Schedule
 
-| Week             | Topics                         |
-| ---------------- | ------------------------------ |
-| 1/Tahi           | Studio Research                |
-| 2/Rua            | Pre-Production                 |
-| 3/Toru           | Rapid Prototyping Sprint       |
-| 4/Whā            | Production Pipelines           |
-| 5/Rima           | Networked Systems Architecture |
-| 6/Ono            | Performance Engineering        |
-| 7/Whitu          | Deployment Pipelines           |
-|                  | Mid Semester Break             |
-| 8/Waru           | Assessment Work                |
-| 9/Whitu          | Assessment Work                |
-| 10/Tekau         |                                |
-| 11/Tekau mā tahi | Assessment Work                |
-| 12/Tekau mā rua  | Assessment Work                |
-| 13/Tekau mā toru | Assessment Work                |
-| 14/Tekau mā whā  | Assessment Work                |
-| 15/Tekau mā rima | Assessment Work                |
-| 16/Tekau mā ono  | Assessment Marking             |
+| Week             | Topics                   |
+| ---------------- | ------------------------ |
+| 1/Tahi           | Studio Research          |
+| 2/Rua            | Pre-Production           |
+| 3/Toru           | Production Pipelines     |
+| 4/Whā            | Rapid Prototyping Sprint |
+| 5/Rima           | Systems Architecture     |
+| 6/Ono            | Performance Engineering  |
+| 7/Whitu          | Deployment Pipelines     |
+|                  | Mid Semester Break       |
+| 8/Waru           | Build Compliance         |
+| 9/Whitu          | Assessment Work          |
+| 10/Tekau         |                          |
+| 11/Tekau mā tahi | Assessment Work          |
+| 12/Tekau mā rua  | Assessment Work          |
+| 13/Tekau mā toru | Assessment Work          |
+| 14/Tekau mā whā  | Assessment Work          |
+| 15/Tekau mā rima | Assessment Work          |
+| 16/Tekau mā ono  | Assessment Marking       |
 
 ## Resources
 
