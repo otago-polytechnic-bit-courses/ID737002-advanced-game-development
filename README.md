@@ -2,7 +2,7 @@
 
 <img src="./resources (ignore)/img/logo.jpg" alt="Otago Polytechnic Logo" width="200" height="auto" />
 
-# ID737001: Advanced Game Development
+# ID737002: Advanced Game Development
 
 ## Course Information
 
@@ -104,7 +104,7 @@ To pass this course, you must achieve a cumulative pass mark of 50% over all ass
 
 ### Communication
 
-Microsoft Outlook/Teams are the official communication channels for this course. It is your responsibility to regularly check Microsoft Outlook/Teams and [GitHub](https://github.com/otago-polytechnic-bit-courses/ID730001-advanced-application-development-concepts) for important course material, including changes to class scheduling or assessment details. Not checking will not be accepted as an excuse.
+Microsoft Outlook/Teams are the official communication channels for this course. It is your responsibility to regularly check Microsoft Outlook/Teams and [GitHub](https://github.com/otago-polytechnic-bit-courses/ID737002-advanced-game-development) for important course material, including changes to class scheduling or assessment details. Not checking will not be accepted as an excuse.
 
 ### Snow Days/Polytechnic Closure
 
