@@ -2,13 +2,13 @@
 
 <img src="./resources (ignore)/img/logo.jpg" alt="Otago Polytechnic Logo" width="200" height="auto" />
 
-# ID730001: Advanced Application Development Concepts
+# ID737001: Advanced Game Development
 
 ## Course Information
 
-| Level | Credits | Prerequisite                                            | Timetable                                                               |
-| ----- | ------- | ------------------------------------------------------- | ----------------------------------------------------------------------- |
-| 7     | 15      | ID608001: Intermediate Application Development Concepts | Monday 3:00 PM - 4:45 PM in D202 and Thursday 8:00 AM - 9:45 AM in D202 |
+| Level | Credits | Prerequisite                            | Timetable                                                                 |
+| ----- | ------- | --------------------------------------- | ------------------------------------------------------------------------- |
+| 7     | 15      | ID623002: Introductory Game Development | Tuesday 1:00 PM - 3:45 PM in D202 and Wednesday 8:00 AM - 9:45 AM in D202 |
 
 ## Teaching Staff
 
@@ -24,21 +24,20 @@
 
 ## Aims
 
-To enable learners to build and deploy optimised and efficient applications using a range of advanced industry tools and frameworks.
+To enable learners to apply game programming techniques and tools to develop an effective game.
 
-## Learning Outcomes
+## Learning Outcome
 
 At the successful completion of this course, learners will be able to:
 
-1. Critically evaluate and implement a range of programming paradigms to solve unfamiliar problems.
-2. Create efficient full-stack applications using advanced industry techniques, tools and frameworks.
+1. Design and develop a game using industry standard tools, technologies and practices.
 
 ## Assessments
 
-| Assessment | Weighting | Due Date           | Learning Outcome |
-| ---------- | --------- | ------------------ | ---------------- |
-| Practical  | 20%       | 22 May at 4.59 PM  | 1                |
-| Project    | 80%       | 26 June at 4.59 PM | 1, 2             |
+| Assessment                       | Weighting | Due Date           | Learning Outcome |
+| -------------------------------- | --------- | ------------------ | ---------------- |
+| Assignment                       | 30%       | 22 May at 4.59 PM  | 1                |
+| Project: Game Development + Demo | 70%       | 26 June at 4.59 PM | 1                |
 
 ## Grade Table - Criterion Referenced
 
@@ -58,31 +57,31 @@ At the successful completion of this course, learners will be able to:
 
 ## Provisional Schedule
 
-| Week             | Topics                                             |
-| ---------------- | -------------------------------------------------- |
-| 1/Tahi           | Git, Programming Paradigms and Python/C++ 1        |
-| 2/Rua            | Python/C++ 2, Design Patterns and SOLID Principles |
-| 3/Toru           | Processes and Threading                            |
-| 4/Whā            | Networking                                         |
-| 5/Rima           | Frameworks and Libraries 1                         |
-| 6/Ono            | Frameworks and Libraries 1                         |
-| 7/Whitu          | Frameworks and Libraries 2                         |
-|                  | Mid Semester Break                                 |
-| 8/Waru           | Frameworks and Libraries 4                         |
-| 9/Whitu          | AI Coding Assistants 1                             |
-| 10/Tekau         | AI Coding Assistants 2                             |
-| 11/Tekau mā tahi | Assessment Work                                    |
-| 12/Tekau mā rua  | Assessment Work                                    |
-| 13/Tekau mā toru | Assessment Work                                    |
-| 14/Tekau mā whā  | Assessment Work                                    |
-| 15/Tekau mā rima | Assessment Work                                    |
-| 16/Tekau mā ono  | Assessment Marking                                 |
+| Week             | Topics                         |
+| ---------------- | ------------------------------ |
+| 1/Tahi           | Studio Research                |
+| 2/Rua            | Pre-Production                 |
+| 3/Toru           | Rapid Prototyping Sprint       |
+| 4/Whā            | Production Pipelines           |
+| 5/Rima           | Networked Systems Architecture |
+| 6/Ono            | Performance Engineering        |
+| 7/Whitu          | Deployment Pipelines           |
+|                  | Mid Semester Break             |
+| 8/Waru           | Assessment Work                |
+| 9/Whitu          | Assessment Work                |
+| 10/Tekau         |                                |
+| 11/Tekau mā tahi | Assessment Work                |
+| 12/Tekau mā rua  | Assessment Work                |
+| 13/Tekau mā toru | Assessment Work                |
+| 14/Tekau mā whā  | Assessment Work                |
+| 15/Tekau mā rima | Assessment Work                |
+| 16/Tekau mā ono  | Assessment Marking             |
 
 ## Resources
 
 ### Software
 
-This course will be taught using [Microsoft Visual Studio Code](https://code.visualstudio.com/download) and [Python]().
+This course will be taught using [Microsoft Visual Studio Code](https://code.visualstudio.com/download) and [Unity](https://unity.com/download).
 
 ### Readings
 

@@ -1,8 +1,0 @@
-# latex
-*.aux
-*.fdb_latexmk
-*.fls
-*.out
-*.synctex.gz
-*.xdv
-*.log
