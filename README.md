@@ -8,7 +8,7 @@
 
 | Level | Credits | Prerequisite                            | Timetable                                                                 |
 | ----- | ------- | --------------------------------------- | ------------------------------------------------------------------------- |
-| 7     | 15      | ID623002: Introductory Game Development | Tuesday 1:00 PM - 3:45 PM in D202 and Wednesday 8:00 AM - 9:45 AM in D202 |
+| 7     | 15      | ID623002: Introductory Game Development | Tuesday 1:00 PM - 2:45 PM in D202 and Wednesday 8:00 AM - 9:45 AM Online |
 
 ## Teaching Staff
 
