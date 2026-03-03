@@ -60,14 +60,14 @@ At the successful completion of this course, learners will be able to:
 | Week             | Topics                   |
 | ---------------- | ------------------------ |
 | 1/Tahi           | Studio Research          |
-| 2/Rua            | Pre-Production           |
-| 3/Toru           | Production Pipelines     |
-| 4/Whā            | Rapid Prototyping Sprint |
-| 5/Rima           | Systems Architecture     |
-| 6/Ono            | Performance Engineering  |
-| 7/Whitu          | Deployment Pipelines     |
+| 2/Rua            | Collaboration            |
+| 3/Toru           | Collaboration            |
+| 4/Whā            | Collaboration            |
+| 5/Rima           | Collaboration            |
+| 6/Ono            | Collaboration            |
+| 7/Whitu          | Collaboration            |
 |                  | Mid Semester Break       |
-| 8/Waru           | Build Compliance         |
+| 8/Waru           | Collaboration            |
 | 9/Whitu          | Assessment Work          |
 | 10/Tekau         |                          |
 | 11/Tekau mā tahi | Assessment Work          |
