@@ -61,7 +61,7 @@ All submitted work must be completely your own. Do your best to complete this as
 
 Learning to use AI tools is an important skill. If you use an AI tool, be aware of the following:
 
-- Vague prompts produce low-quality responses — refine your prompts carefully.
+- Vague prompts produce low-quality responses - refine your prompts carefully.
 - Do not accept AI responses uncritically. Apply your own judgement and verify with additional research.
 - Acknowledge any AI tool used. In the repository `README.md`, include the prompts you used and how you applied the responses.
 
@@ -83,9 +83,9 @@ Resits and reassessments are not applicable in ID737002: Game Development.
 
 ---
 
-## Assessment Requirements — Coding
+## Assessment Requirements - Coding
 
-### Technical and Professional Proficiency — Learning Outcome 1 (45%)
+### Technical and Professional Proficiency - Learning Outcome 1 (45%)
 
 #### Group
 
@@ -106,7 +106,7 @@ Resits and reassessments are not applicable in ID737002: Game Development.
 
 ---
 
-### Code Quality and Best Practices — Learning Outcome 1 (15%)
+### Code Quality and Best Practices - Learning Outcome 1 (15%)
 
 - Appropriate naming of files, variables, methods, and classes.
 - Idiomatic use of the chosen programming language and game engine.
@@ -118,7 +118,7 @@ Resits and reassessments are not applicable in ID737002: Game Development.
 
 ---
 
-### Git Usage — Learning Outcome 1 (10%)
+### Git Usage - Learning Outcome 1 (10%)
 
 #### Group
 
@@ -131,11 +131,11 @@ Resits and reassessments are not applicable in ID737002: Game Development.
 
 ---
 
-## Assessment Requirements — Written
+## Assessment Requirements - Written
 
-### Documentation — Learning Outcome 1 (15%)
+### Documentation - Learning Outcome 1 (15%)
 
-#### Group — Game Design Document
+#### Group - Game Design Document
 
 In a Microsoft Word document, explain the following:
 
@@ -152,7 +152,7 @@ In a Microsoft Word document, explain the following:
 - Future improvements
 - A URL to the game on itch.io
 
-#### Group — External Playtesting
+#### Group - External Playtesting
 
 Engage with five external playtesters. In a Microsoft Word document, record the following for each tester:
 
@@ -163,7 +163,7 @@ Engage with five external playtesters. In a Microsoft Word document, record the 
 - Difficulty: too easy, too hard, or just right? Describe any challenges that felt unfair.
 - Bugs: document any bugs encountered during playtesting.
 
-#### Individual — Technical Reflection
+#### Individual - Technical Reflection
 
 Select three game mechanics you implemented. For each, address the following in a Microsoft Word document:
 
@@ -175,7 +175,7 @@ Select three game mechanics you implemented. For each, address the following in 
 
 Additionally, reflect on: what did you find most professionally challenging, and how did you overcome it?
 
-#### Individual — Playtesting Reflection
+#### Individual - Playtesting Reflection
 
 Based on the external playtesting feedback your game received, write a short reflection (approximately 300–400 words) covering:
 
@@ -190,7 +190,7 @@ Based on the external playtesting feedback your game received, write a short ref
 
 ---
 
-### Game Analysis Report — Learning Outcome 1 (15%)
+### Game Analysis Report - Learning Outcome 1 (15%)
 
 Choose a game of your choice and write a game analysis report in a Microsoft Word document. Word guideline: 2,000 words.
 

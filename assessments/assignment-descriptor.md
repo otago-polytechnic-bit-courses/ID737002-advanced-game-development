@@ -61,7 +61,7 @@ All submitted work must be completely your own. Do your best to complete this as
 
 Learning to use AI tools is an important skill. If you use an AI tool, be aware of the following:
 
-- Vague prompts produce low-quality responses — refine your prompts carefully.
+- Vague prompts produce low-quality responses - refine your prompts carefully.
 - Do not accept AI responses uncritically. Apply your own judgement and verify with additional research.
 - Acknowledge any AI tool used. In the repository `README.md`, include the prompts you used and how you applied the responses.
 
@@ -83,9 +83,9 @@ Resits and reassessments are not applicable in ID737002: Game Development.
 
 ---
 
-## Assessment Requirements — Coding
+## Assessment Requirements - Coding
 
-### Technical and Professional Proficiency — Learning Outcome 1 (50%)
+### Technical and Professional Proficiency - Learning Outcome 1 (50%)
 
 #### Group
 
@@ -105,7 +105,7 @@ Resits and reassessments are not applicable in ID737002: Game Development.
 
 ---
 
-### Code Quality and Best Practices — Learning Outcome 1 (20%)
+### Code Quality and Best Practices - Learning Outcome 1 (20%)
 
 - Appropriate naming of files, variables, methods, and classes.
 - Idiomatic use of the chosen programming language and game engine.
@@ -117,7 +117,7 @@ Resits and reassessments are not applicable in ID737002: Game Development.
 
 ---
 
-### Git Usage — Learning Outcome 1 (10%)
+### Git Usage - Learning Outcome 1 (10%)
 
 #### Group
 
@@ -130,11 +130,11 @@ Resits and reassessments are not applicable in ID737002: Game Development.
 
 ---
 
-## Assessment Requirements — Written
+## Assessment Requirements - Written
 
-### Documentation — Learning Outcome 1 (10%)
+### Documentation - Learning Outcome 1 (10%)
 
-#### Group — Meeting Notes
+#### Group - Meeting Notes
 
 Attend and participate in cross-disciplinary group meetings with Bachelor of IT and Bachelor of Design learners. Each group member must take turns as note-taker. In a Microsoft Word document, record the following for each meeting:
 
@@ -147,15 +147,15 @@ Attend and participate in cross-disciplinary group meetings with Bachelor of IT 
 
 ---
 
-### Industry Engagement Report — Learning Outcome 1 (10%)
+### Industry Engagement Report - Learning Outcome 1 (10%)
 
 Engage with the game development industry through one of the following options. Both options are equally valid and will be assessed on the same criteria.
 
-#### Option A — Game Development Meetup
+#### Option A - Game Development Meetup
 
 Attend a game development meetup and write a report in a Microsoft Word document addressing the prompts below.
 
-#### Option B — Industry Interview
+#### Option B - Industry Interview
 
 If attending a meetup is not possible due to scheduling, access, transport, work, or other commitments, conduct a structured interview with a game developer (professional, freelancer, or industry-adjacent practitioner) and write a report in a Microsoft Word document addressing the same prompts below.
 
@@ -170,7 +170,7 @@ Your interviewee must be someone other than a current classmate. Include a brief
 - Were any roles or career paths discussed that you had not previously considered?
 - Has this experience influenced your short-term or long-term career goals?
 - How did it feel engaging with practising game developers?
-- Did you ask any questions? If not, what held you back — and what would you ask if you could go back?
+- Did you ask any questions? If not, what held you back - and what would you ask if you could go back?
 - Would you seek out similar industry engagement in future? Why or why not?
 
 Word guideline: 1,000 words. Correct spelling and grammar. APA 7th edition for all references and in-line citations.
