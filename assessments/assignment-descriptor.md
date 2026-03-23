@@ -43,13 +43,13 @@ You will complete this assessment during your learner-managed time. There will b
 
 ## Pass Criteria
 
-This assessment is criterion-referenced (CRA) with a cumulative pass mark of 50% across all assessments in ID737001: Game Development.
+This assessment is criterion-referenced (CRA) with a cumulative pass mark of 50% across all assessments in ID737002: Game Development.
 
 ---
 
 ## Submission
 
-Submit all application files via GitHub. Create a repository and add the course lecturer as a collaborator. Late submissions will incur a 10% penalty per day, rolling over at 8:00 AM.
+Submit all application files via GitHub. Create a repository and add the course lecturer as a collaborator. Late submissions will incur a 10% penalty per day, rolling over at 5:00 PM.
 
 ---
 
@@ -79,7 +79,7 @@ Extensions are only granted for unforeseen circumstances outside your control, a
 
 ### Resits
 
-Resits and reassessments are not applicable in ID737001: Game Development.
+Resits and reassessments are not applicable in ID737002: Game Development.
 
 ---
 
