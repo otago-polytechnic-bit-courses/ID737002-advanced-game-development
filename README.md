@@ -153,3 +153,4 @@ Regulatory documents relating to this course can be found on the [Otago Polytech
 ---
 
 _Author: Grayson Orr_
+_Course: ID737001: Advanced Game Development_
