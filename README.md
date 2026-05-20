@@ -32,12 +32,12 @@ At the successful completion of this course, learners will be able to:
 
 1. Design and develop a game using industry standard tools, technologies and practices.
 
-## Assessments
+## Assessment Summary
 
 | Assessment                       | Weighting | Due Date           | Learning Outcome |
 | -------------------------------- | --------- | ------------------ | ---------------- |
-| Assignment                       | 30%       | 22 May at 4.59 PM  | 1                |
-| Project: Game Development + Demo | 70%       | 26 June at 4.59 PM | 1                |
+| Assignment                       | 30%       | 26 June at 4:59 PM | 1                |
+| Project: Game Development + Demo | 70%       | 26 June at 4:59 PM | 1                |
 
 ## Grade Table - Criterion Referenced
 
