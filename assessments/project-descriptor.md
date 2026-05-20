@@ -1,4 +1,4 @@
-# ID737002: Game Development
+# ID737002: Advanced Game Development
 
 ## Project: Game Development + Demo
 
@@ -14,7 +14,7 @@
 
 ## Assessment Overview
 
-In this assessment you will form a group of three to design and develop a game using a game engine of your choice. Marks are allocated for technical execution, code quality, documentation, and Git usage. You will also produce an individual game analysis report.
+In this assessment you will form a group of three to design and develop a game using a game engine of your choice. Marks are allocated for technical and professional proficiency, code quality, and documentation. You will also produce an individual game analysis report. This assessment continues directly from the Assignment assessment. You will extend the same codebase, team, and repository by implementing new features.
 
 ---
 
@@ -30,7 +30,7 @@ At the successful completion of this course, learners will be able to:
 
 | Assessment                       | Weighting | Due Date           | Learning Outcome |
 | -------------------------------- | --------- | ------------------ | ---------------- |
-| Assignment                       | 30%       | 22 May at 4:59 PM  | 1                |
+| Assignment                       | 30%       | 26 June at 4:59 PM | 1                |
 | Project: Game Development + Demo | 70%       | 26 June at 4:59 PM | 1                |
 
 ---
@@ -43,7 +43,7 @@ You will complete this assessment during your learner-managed time. There will b
 
 ## Pass Criteria
 
-This assessment is criterion-referenced (CRA) with a cumulative pass mark of 50% across all assessments in ID737002: Game Development.
+This assessment is criterion-referenced (CRA) with a cumulative pass mark of 50% across all assessments in ID737002: Advanced Game Development.
 
 ---
 
@@ -79,7 +79,7 @@ Extensions are only granted for unforeseen circumstances outside your control, a
 
 ### Resits
 
-Resits and reassessments are not applicable in ID737002: Game Development.
+Resits and reassessments are not applicable in ID737002: Advanced Game Development.
 
 ---
 
@@ -87,22 +87,20 @@ Resits and reassessments are not applicable in ID737002: Game Development.
 
 ### Technical and Professional Proficiency - Learning Outcome 1 (45%)
 
+> **Note:** Each individual must implement two new features that extend the game built during the Assignment. These features must not have been present in the Assignment submission.
+
 #### Group
 
 - The game must open in the chosen game engine without code or file structure modification.
-- Gather requirements and deconstruct them into user stories.
-- Design and develop a game using the chosen game engine that meets the requirements.
 - Demo the game on itch.io.
 
 #### Individual
 
-- Contribute a meaningful amount of code to the game, as evidenced by Git commits and lines of code.
+- Contribute two new game mechanics to the game, as evidenced by Git commits and lines of code.
 - For each feature merged into the main branch:
   - Conduct a code review of another team member's code.
-  - Playtest the feature and provide documented feedback.
   - Record this activity in the GitHub issue associated with the feature.
 - Communicate with team members via Microsoft Teams (or an approved alternative). Include screenshots of communication in the repository.
-- Select three game mechanics you implemented and produce an individual technical reflection (see Documentation section).
 
 ---
 
@@ -118,54 +116,13 @@ Resits and reassessments are not applicable in ID737002: Game Development.
 
 ---
 
-### Git Usage - Learning Outcome 1 (10%)
-
-#### Group
-
-- Use a GitHub project board and issues to organise and prioritise development work. Consistent use must be demonstrable for the full duration of the assessment.
-
-#### Individual
-
-- Git commit messages must reflect the context of each functional requirement change.
-- Commit messages must follow an appropriate naming convention.
-
----
-
 ## Assessment Requirements - Written
 
 ### Documentation - Learning Outcome 1 (15%)
 
-#### Group - Game Design Document
-
-In a Microsoft Word document, explain the following:
-
-- Basic story
-- Design pillars
-- Gameplay
-- Main features and mechanics
-- Target platform and audience
-- Interface and controls
-- Inspiration
-- Visual style
-- Audio style
-- Known issues and bugs
-- Future improvements
-- A URL to the game on itch.io
-
-#### Group - External Playtesting
-
-Engage with five external playtesters. In a Microsoft Word document, record the following for each tester:
-
-- Overall experience: rate 0–5 with a brief written explanation highlighting one positive and one negative.
-- Game mechanics: identify intuitive or unintuitive mechanics and suggest improvements.
-- Controls: were they easy to learn? Were any issues encountered?
-- User interface: was information presented clearly? Did the UI enhance or detract from the experience?
-- Difficulty: too easy, too hard, or just right? Describe any challenges that felt unfair.
-- Bugs: document any bugs encountered during playtesting.
-
 #### Individual - Technical Reflection
 
-Select three game mechanics you implemented. For each, address the following in a Microsoft Word document:
+Select two game mechanics you implemented. For each, address the following in a Microsoft Word document:
 
 - What did you implement?
 - What did you research during implementation? Provide links to the resources used.
@@ -174,14 +131,6 @@ Select three game mechanics you implemented. For each, address the following in 
 - How can you apply what you learned to future games?
 
 Additionally, reflect on: what did you find most professionally challenging, and how did you overcome it?
-
-#### Individual - Playtesting Reflection
-
-Based on the external playtesting feedback your game received, write a short reflection (approximately 300–400 words) covering:
-
-- Which pieces of feedback had the greatest impact on your game, and why?
-- What changes did you make in response to feedback? What did you choose not to change, and why?
-- How has this process changed how you approach iterative design?
 
 #### All Written Work
 
@@ -243,4 +192,4 @@ Ensure correct spelling and grammar. Use APA 7th edition for all references and 
 ---
 
 _Author: Grayson Orr_
-_Course: ID737001: Game Development_
+_Course: ID737001: Advanced Game Development_

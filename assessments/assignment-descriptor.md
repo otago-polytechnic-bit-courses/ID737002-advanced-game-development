@@ -1,4 +1,4 @@
-# ID737002: Game Development
+# ID737002: Advanced Game Development
 
 ## Assignment
 
@@ -14,7 +14,7 @@
 
 ## Assessment Overview
 
-In this assessment you will collaborate in a cross-disciplinary group of Bachelor of IT and Bachelor of Design learners to design and develop a game using a game engine of your choice. Marks are allocated for technical execution, code quality, documentation, and Git usage. You will also produce an individual industry engagement report.
+In this assessment you will collaborate in a cross-disciplinary group of Bachelor of IT and Bachelor of Design learners to design and develop a game using a game engine of your choice. Marks are allocated for technical and professional proficiency, code quality, documentation, and Git usage. You will also produce an individual industry engagement report.
 
 ---
 
@@ -30,20 +30,20 @@ At the successful completion of this course, learners will be able to:
 
 | Assessment                       | Weighting | Due Date           | Learning Outcome |
 | -------------------------------- | --------- | ------------------ | ---------------- |
-| Assignment                       | 30%       | 22 May at 4:59 PM  | 1                |
+| Assignment                       | 30%       | 26 June at 4:59 PM | 1                |
 | Project: Game Development + Demo | 70%       | 26 June at 4:59 PM | 1                |
 
 ---
 
 ## Conditions of Assessment
 
-You will complete this assessment during your learner-managed time. There will be time during class to discuss requirements and progress. This assessment must be completed by 22 May at 4:59 PM.
+You will complete this assessment during your learner-managed time. There will be time during class to discuss requirements and progress. This assessment must be completed by 26 June at 4:59 PM.
 
 ---
 
 ## Pass Criteria
 
-This assessment is criterion-referenced (CRA) with a cumulative pass mark of 50% across all assessments in ID737002: Game Development.
+This assessment is criterion-referenced (CRA) with a cumulative pass mark of 50% across all assessments in ID737002: Advanced Game Development.
 
 ---
 
@@ -79,7 +79,7 @@ Extensions are only granted for unforeseen circumstances outside your control, a
 
 ### Resits
 
-Resits and reassessments are not applicable in ID737002: Game Development.
+Resits and reassessments are not applicable in ID737002: Advanced Game Development.
 
 ---
 
@@ -185,4 +185,4 @@ Word guideline: 1,000 words. Correct spelling and grammar. APA 7th edition for a
 ---
 
 _Author: Grayson Orr_
-_Course: ID737001: Game Development_
+_Course: ID737001: Advanced Game Development_
