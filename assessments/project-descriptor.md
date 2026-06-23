@@ -85,7 +85,7 @@ Resits and reassessments are not applicable in ID737002: Advanced Game Developme
 
 ## Assessment Requirements - Coding
 
-### Technical and Professional Proficiency - Learning Outcome 1 (45%)
+### Technical and Professional Proficiency - Learning Outcome 1 (45 marks)
 
 > **Note:** Each individual must implement two new features that extend the game built during the Assignment. These features must not have been present in the Assignment submission.
 
@@ -104,7 +104,7 @@ Resits and reassessments are not applicable in ID737002: Advanced Game Developme
 
 ---
 
-### Code Quality and Best Practices - Learning Outcome 1 (15%)
+### Code Quality and Best Practices - Learning Outcome 1 (15 marks)
 
 - Appropriate naming of files, variables, methods, and classes.
 - Idiomatic use of the chosen programming language and game engine.
@@ -118,7 +118,7 @@ Resits and reassessments are not applicable in ID737002: Advanced Game Developme
 
 ## Assessment Requirements - Written
 
-### Documentation - Learning Outcome 1 (15%)
+### Documentation - Learning Outcome 1 (15 marks)
 
 #### Individual - Technical Reflection
 
@@ -139,7 +139,7 @@ Additionally, reflect on: what did you find most professionally challenging, and
 
 ---
 
-### Game Analysis Report - Learning Outcome 1 (15%)
+### Game Analysis Report - Learning Outcome 1 (15 marks)
 
 Choose a game of your choice and write a game analysis report in a Microsoft Word document. Word guideline: 2,000 words.
 
@@ -188,8 +188,3 @@ Ensure correct spelling and grammar. Use APA 7th edition for all references and 
 
 - Do not rewrite your Git history. The course lecturer must be able to see how your work developed over time.
 - Show the course lecturer your initial GitHub project board or issues before development begins, then again at the end of each week.
-
----
-
-_Author: Grayson Orr_
-_Course: ID737001: Advanced Game Development_
