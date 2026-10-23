@@ -68,7 +68,7 @@ At the successful completion of this course, learners will be able to:
 | 7/Whitu          | Collaboration            |
 |                  | Mid Semester Break       |
 | 8/Waru           | Collaboration            |
-| 9/Whitu          | Assessment Work          |
+| 9/Iwa            | Assessment Work          |
 | 10/Tekau         |                          |
 | 11/Tekau mā tahi | Assessment Work          |
 | 12/Tekau mā rua  | Assessment Work          |
@@ -108,7 +108,7 @@ Microsoft Outlook/Teams are the official communication channels for this course.
 
 ### Snow Days/Polytechnic Closure
 
-In the event Otago Polytechnic is closed or has a delayed opening because of snow or bad weather, you should not attempt to attend class if it is unsafe to do so. It is possible that the teaching staff will not be able to attend either, so classes will not physically be meeting. However, this does not become a holiday. Rather, the course material will be made available on [GitHub](https://github.com/otago-polytechnic-bit-courses/ID730001-advanced-application-development-concepts) for classes affected by the closure. You are responsible for any course material presented in this manner. Information about closure will be posted on the [Otago Polytechnic Facebook](https://www.facebook.com/OtagoPoly) page.
+In the event Otago Polytechnic is closed or has a delayed opening because of snow or bad weather, you should not attempt to attend class if it is unsafe to do so. It is possible that the teaching staff will not be able to attend either, so classes will not physically be meeting. However, this does not become a holiday. Rather, the course material will be made available on [GitHub](https://github.com/otago-polytechnic-bit-courses/ID737002-advanced-game-development) for classes affected by the closure. You are responsible for any course material presented in this manner. Information about closure will be posted on the [Otago Polytechnic Facebook](https://www.facebook.com/OtagoPoly) page.
 
 ### Group Work and Originality
 
@@ -153,4 +153,4 @@ Regulatory documents relating to this course can be found on the [Otago Polytech
 ---
 
 _Author: Grayson Orr_
-_Course: ID737001: Advanced Game Development_
+_Course: ID737002: Advanced Game Development_

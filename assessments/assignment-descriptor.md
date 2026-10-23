@@ -185,4 +185,4 @@ Word guideline: 1,000 words. Correct spelling and grammar. APA 7th edition for a
 ---
 
 _Author: Grayson Orr_
-_Course: ID737001: Advanced Game Development_
+_Course: ID737002: Advanced Game Development_
